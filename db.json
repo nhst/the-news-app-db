@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "News app frontpage",
+      "title": "Frontpage",
       "free": true,
       "author": "James Waters",
       "type": "frontpage",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "News app free article",
+      "title": "Free article",
       "free": true,
       "author": "James Waters",
       "type": "article",
@@ -18,11 +18,11 @@
     },
     {
       "id": 3,
-      "title": "News app paid article",
+      "title": "Paid article",
       "free": false,
       "author": "James Waters",
       "type": "article",
-      "content": "Swedish police said on Thursday that a crime scene investigation into damage at the Nord Stream 1 and 2 gas pipelines in the Baltic Sea has now been completed, with suspicions raised of “serious sabotage” from detonations.\n\nSwedish and Danish authorities have been probing four leaks from the trans-Baltic pipelines discovered in Sweden’s and Denmark’s exclusive economic zones."
+      "content": "Swedish police said on Thursday that a crime scene investigation into damage at the Nord Stream 1 and 2 gas pipelines in the Baltic Sea has now been completed, with suspicions raised of “serious sabotage” from detonations.\n\nSwedish and Danish authorities have been probing four leaks from the trans-Baltic pipelines discovered in Sweden’s and Denmark’s exclusive economic zones. Sweden's Security Police said: “[We] can state that there have been detonations at Nord Stream 1 and 2 in the Swedish economic zone, which have caused extensive damage to the gas pipelines.\n\n“After completing the crime scene investigation, the prosecutor has lifted the cordons at the scene.\n\n“The investigation has strengthened the suspicions of serious sabotage.”\n\nThe police said that “”seizures” have been made at the crime scene and “these will now be investigated”, but did not elaborate."
     }
   ]
 }
