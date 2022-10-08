@@ -1,16 +1,17 @@
-# Try it
+# Description
+This is the database for the news-app-demo. The content is structured as json.
 
-## Fetch all content
+## View all content
 https://my-json-server.typicode.com/nhst/demo-news-app/db
 
-## Fetch frontpage
+## View frontpage
 https://my-json-server.typicode.com/nhst/demo-news-app/frontpage
 
-## Fetch all articles
+## View all articles
 https://my-json-server.typicode.com/nhst/demo-news-app/articles
 
-## Fetch free article
+## View free article
 https://my-json-server.typicode.com/nhst/demo-news-app/articles/1
 
-## Fetch paid article
+## View paid article
 https://my-json-server.typicode.com/nhst/demo-news-app/articles/2
