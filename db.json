@@ -1,11 +1,11 @@
 {
   "frontpage": {
     "id": 1,
-    "title": "News app demo",
+    "title": "Frontpage",
     "free": true,
     "author": "James Waterhouse",
     "type": "frontpage",
-    "content": "Welcome to the news app demo. The news app contains 2 articles, one free article and one paid article. For further reading please navigate to the articles"
+    "content": "Welcome to the news app. The news app contains 2 articles, one free article and one paid article. For further reading please navigate to the articles."
   },
   "articles": [
     {
