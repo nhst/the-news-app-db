@@ -1,5 +1,6 @@
 # Description
-This is the database for the demo-news-app. The content is structured as json.
+This is the database for the demo-news-app. The content is structured as json.  
+You can fetch the data through GET requests via the API's below
 
 ## View all content
 https://my-json-server.typicode.com/nhst/demo-news-app/db
